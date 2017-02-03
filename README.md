@@ -5,9 +5,10 @@ General description
 -----
 http://www.okbqa.org/architecture/answer-generation
 
-Version-specific description
+Changes
 -----
-http://repository.okbqa.org/components/26
+v1.0.0: http://repository.okbqa.org/components/26
+v1.0.1: There is a minor change that input queries are asked to a KB in descending order of their score.
 
 Prerequisite
 -----
